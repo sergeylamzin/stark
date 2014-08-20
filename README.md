@@ -1,0 +1,4 @@
+stark
+=====
+
+StarK genome assembler
